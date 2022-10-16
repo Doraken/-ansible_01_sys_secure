@@ -1,0 +1,25 @@
+---
+
+galaxy_info:
+    author: "Arnaud Crampet AKA Doraken"
+    description: "Ansible role init ubuntu server"
+    company: "MindPoint Group"
+    license: MIT
+    role_name: sys_01_cis
+    namespace: doraken
+    min_ansible_version: 2.9.0
+    platforms:
+        - name: Ubuntu
+          versions:
+              - focal
+    galaxy_tags:
+        - system
+        - security
+        - cis
+        - hardening
+        - benchmark
+        - compliance
+        - complianceascode
+        - ubuntu20
+
+dependencies: []
