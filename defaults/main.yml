@@ -343,9 +343,9 @@ ubtu20cis_allow_usb_storage: false
 ubtu20cis_avahi_server: false
 ubtu20cis_cups_server: false
 ubtu20cis_dhcp_server: false
-ubtu20cis_ldap_server: false
+ubtu20cis_ldap_server: true
 ubtu20cis_nfs_server: false
-ubtu20cis_dns_server: false
+ubtu20cis_dns_server: true
 ubtu20cis_vsftpd_server: false
 ubtu20cis_httpd_server: false
 ubtu20cis_dovecot_server: false
